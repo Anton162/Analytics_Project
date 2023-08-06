@@ -45,7 +45,7 @@ body {
   width: 100%;
   height: 869px;
   background-image: url(../img/background-top.svg);
-  background-position: center;
+  background-position: bottom;
   -webkit-background-size: cover;
   background-size: cover;
   /* padding-bottom: 400px;
