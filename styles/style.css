@@ -254,7 +254,10 @@ header {
   margin: 0 0 30px;
   line-height: normal;
 }
+
 .main_futures_txt {
+  margin: 0 auto;
+  width: 1060px;
   font-size: 18px;
   line-height: 150%;
   margin: 0 0 81px;
@@ -777,6 +780,7 @@ header {
     line-height: normal;
   }
   .main_futures_txt {
+    width: 355px;
     font-size: 14px;
     font-weight: 400;
     line-height: 140%;
